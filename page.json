@@ -4,6 +4,11 @@
   "image_url": "https://pbs.twimg.com/profile_images/1549826839115358208/KSQlaMvL_200x200.jpg",
   "links": [
     {
+      "title": "Website",
+      "url": "https://alperencetin.com",
+      "icon": "globe-01"
+    },
+    {
       "title": "LinkedIn",
       "url": "https://linkedin.com/in/alperencet1n",
       "icon": "linkedin"
@@ -17,6 +22,16 @@
       "title": "Twitter",
       "url": "https://twitter.com/alperencet1n",
       "icon": "twitter"
+    },
+    {
+      "title": "Discord",
+      "url": "https://discordapp.com/users/507960907050123274",
+      "icon": "discord"
+    },
+    {
+      "title": "Email",
+      "url": "mailto:me@xacnio.dev",
+      "icon": "mail"
     }
   ]
 }
