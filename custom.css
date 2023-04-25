@@ -44,7 +44,7 @@
     body, .ld-custom-name {
         color: #fff;
     }
-    body, .page-container {
+    body, .page-container, .ld-background-base {
         background: #1F293A;
     }
     .ld-custom-button-container {
