@@ -44,6 +44,9 @@
     body, .ld-custom-name {
         color: #fff;
     }
+    .ld-custom-name:visited {
+        color: #1F293A;
+    }
     body, .page-container, .ld-background-base {
         background: #1F293A;
     }
